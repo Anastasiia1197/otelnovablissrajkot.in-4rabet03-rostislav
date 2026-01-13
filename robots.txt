@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://www.intfakti.ru/sitemap.xml
+Sitemap: https://hotelnovablissrajkot.in/sitemap.xml
